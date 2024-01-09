@@ -1,5 +1,5 @@
 **ProtCOM * 
-ProtCOM v0.1 * Protected mode serial port handler for DOS.**  
+ProtCOM v0.1 * Protected mode serial port handler for DOS**  
 Copyright (C) 2024 Pozsar Zsolt <pozsarzs@gmail.com>  
 GitHub: <https://github.com/pozsarzs/protcom>  
 
@@ -11,4 +11,4 @@ GitHub: <https://github.com/pozsarzs/protcom>
  - version:            v0.1
  - language:           en
  - licence:            CC0 Universal v1.0
- - user interface:     TUI
+ - user interface:     CLI
